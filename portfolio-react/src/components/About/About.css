@@ -1,0 +1,113 @@
+.about{
+    width: 100%;
+    display: flex;
+    padding: 50px 180px;
+    align-items: center;
+    justify-content: space-between;
+}
+.left-about{
+    display: flex;
+    margin-right: 60px;
+}
+.left-about img{
+    height: 500px;
+}
+.right-about{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+}
+.first-about{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 115, 0);
+}
+.about-h{
+    font-weight: 500;
+    font-size: 50px;
+}
+.right-about p{
+    color: gray;
+    margin: 15px 40px 20px 0px;
+    word-spacing: 10px;
+}
+.right-about button{
+    margin: 0;
+    padding: 18px 30px;
+    position: relative;
+    border: 1px solid gray;
+    cursor: pointer;
+    background-color: rgb(255, 115, 0);
+    color: aliceblue;
+}
+@media (max-width:745px) {
+    .about{
+        text-align: center;
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 20px 150px;
+    }
+    .right-about{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .right-about p{
+        margin-right: 0;
+    }
+    .left-about{
+        margin-right: 0;
+    }
+    .left-about img{
+        height: 300px;
+    }
+    .about-h{
+        font-size: 40px;
+    }
+}
+@media (max-width:1250px) {
+    .about{
+        padding: 20px 100px;
+    }
+    .left-about img{
+        height: 400px;
+    }
+}
+@media (max-width:1120px) {
+    .about{
+        padding: 20px 80px;
+    }
+    .left-about img{
+        height: 350px;
+    }
+}
+@media (max-width:1032px) {
+    .about{
+        padding: 20px 60px;
+    }
+    .left-about img{
+        height: 300px;
+    }
+    .about-h{
+        font-size: 40px;
+    }
+}
+@media (max-width:860px) {
+    .about{
+        padding: 20px 50px;
+    }
+    .left-about img{
+        height: 300px;
+    }
+    .about-h{
+        font-size: 35px;
+    }
+}
+@media (max-width:830px) {
+    .about{
+        padding: 20px 30px;
+    }
+}
