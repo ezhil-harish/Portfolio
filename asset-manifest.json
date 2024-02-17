@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.23ee5153.css",
+    "main.js": "/portfolio-react/static/js/main.61b2b1a4.js",
+    "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/im doing a webs 1.png": "/portfolio-react/static/media/im doing a webs 1.dc30bdbaa81ada5d40de.png",
+    "static/media/tic.png": "/portfolio-react/static/media/tic.42948caec76039790667.png",
+    "static/media/website designi 0.png": "/portfolio-react/static/media/website designi 0.5e326fe5747920eb241c.png",
+    "static/media/qrcode.png": "/portfolio-react/static/media/qrcode.52d901fa534b3fb64cc2.png",
+    "static/media/image.png": "/portfolio-react/static/media/image.4581ef5c3c84ff9a1a4b.png",
+    "static/media/resume.png": "/portfolio-react/static/media/resume.c76f54fd6464dd505704.png",
+    "static/media/phone.jpg": "/portfolio-react/static/media/phone.a7cf0a25ce8ea1f7712b.jpg",
+    "static/media/Resume.pdf": "/portfolio-react/static/media/Resume.cb2ff3d639c1d5f7d662.pdf",
+    "static/media/css.png": "/portfolio-react/static/media/css.7b2eb4849c1c79b2be14.png",
+    "static/media/chatbot.jpg": "/portfolio-react/static/media/chatbot.80a6fa2a539bdac470fb.jpg",
+    "static/media/location.jpg": "/portfolio-react/static/media/location.db185b14d23ef9e3064f.jpg",
+    "static/media/coding.png": "/portfolio-react/static/media/coding.a3406fa6b026d3bd5185.png",
+    "static/media/uiux.png": "/portfolio-react/static/media/uiux.ea3ecbf6acbd5e6ad26d.png",
+    "static/media/mail.png": "/portfolio-react/static/media/mail.8fc21969c09d93565c9e.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.23ee5153.css.map": "/portfolio-react/static/css/main.23ee5153.css.map",
+    "main.61b2b1a4.js.map": "/portfolio-react/static/js/main.61b2b1a4.js.map",
+    "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ee5153.css",
+    "static/js/main.61b2b1a4.js"
+  ]
+}
